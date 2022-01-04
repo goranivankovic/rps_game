@@ -1,6 +1,7 @@
 # rps_game
 
-python_quiz
+Rock Paper Scissers game for terminal
+
 1.Step One Download file
 
 2.Step Two download python for your operating system link: https://www.python.org/downloads/
